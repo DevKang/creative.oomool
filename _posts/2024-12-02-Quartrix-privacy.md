@@ -5,7 +5,7 @@ subtitle: 균형 잡힌 하루를 만드는 작은 선택들
 cover-img: /assets/img/Quartrix_Cover.png
 thumbnail-img: /assets/img/Quartrix_Cover.png
 share-img: /assets/img/Quartrix_Cover.png
-tags: [apps, coffee, policy]
+tags: [apps, quartrix, policy]
 author: OOMOOL CREATIVE
 ---
 
