@@ -7,6 +7,7 @@ thumbnail-img: /assets/img/Quartrix_Cover.png
 share-img: /assets/img/Quartrix_Cover.png
 tags: [apps, quartrix, policy]
 author: OOMOOL CREATIVE
+hidden: true
 ---
 
 
